@@ -20,6 +20,10 @@
 
 <h2> Stats </h2>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LoganWillaumez&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 ---
 <!---
 LoganWillaumez/LoganWillaumez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
