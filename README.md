@@ -6,7 +6,6 @@
 <p align="center">😁 I like discover and work on new project, and discover new peoples, so don't hesitate to contact me! </p>
 
 ---
-<h2 align="center"> Skills <img src='' width="100px"> </h2>
 <!---
 LoganWillaumez/LoganWillaumez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
