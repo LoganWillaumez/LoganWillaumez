@@ -6,6 +6,21 @@
 <p align="center">😁 I like discover, work on new project, and discover new peoples, so don't hesitate to contact me! </p>
 
 ---
+<h2> Skills & Tools 🛠 </h2>
+
+<p float="left">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="35" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="35" /> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="35" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" width="35" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="35" />
+</p>
+
+---
+
+<h2> Stats </h2>
+
+---
 <!---
 LoganWillaumez/LoganWillaumez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
