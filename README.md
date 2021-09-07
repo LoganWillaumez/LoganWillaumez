@@ -8,12 +8,11 @@
 ---
 <h2> Skills & Tools 🛠 </h2>
 
-<p float="left">
+<div style="display: flex; flex-direction : column">
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="35" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="35" /> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="35" />
-  
-</p>
+</div>
 
 ---
 
