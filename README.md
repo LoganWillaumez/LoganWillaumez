@@ -9,10 +9,16 @@
 <h2> Skills & Tools 🛠 </h2>
 
 <div style="width : 100%; display: flex; justify-content : space-between;">
+  <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="35" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="35" /> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="35" />
-<p><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LoganWillaumez&amp;layout=compact&amp;theme=dracula" alt="Top Langs"></a></p>
+  </div>
+  
+  <br>
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LoganWillaumez&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+  
 </div>
 
 ---
