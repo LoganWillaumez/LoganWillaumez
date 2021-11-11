@@ -13,11 +13,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="35" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="35" /> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="35" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="35" /> 
   </div>
   
-  <br>
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LoganWillaumez&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
   
 </div>
 
