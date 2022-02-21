@@ -6,7 +6,7 @@
 <p>😁 I like discover, work on new projects, and discover new people, so don't hesitate to contact me! </p>
 
 ---
-<h2> Skills & Tools 🛠 </h2>
+<h2> Technologies & Tools 🛠 </h2>
 
 <div style="width : 100%; display: flex; justify-content : space-between;">
   <div>
