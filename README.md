@@ -1,7 +1,7 @@
 <div>
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, I'm Logan Willaumez! <img src="https://c.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width="30px"></h2>
 </div>
-<p>👨‍💻 I'm a student web developer specialized in front-end technology. </p>
+<p>👨‍💻 I'm a junior web developper. </p>
 <p>👨‍🎨 I'm a 3D artist who discovered the world of development, and wants to mix the two world together! </p>
 <p>😁 I like discover, work on new projects, and discover new people, so don't hesitate to contact me! </p>
 
