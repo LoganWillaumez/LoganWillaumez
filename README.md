@@ -33,15 +33,11 @@
 LoganWillaumez/LoganWillaumez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<div style="display:flex; flex-direction:column; gap:1rem;">
+
   <h2> Connect with me :  </h2>
-  <div style="width : 100%; display: flex; gap : 1rem; align-item:center;"> 
-  <a  href = 'https://www.linkedin.com/in/logan-willaumez-979b1114b/'> <img     src="./images/Social/Linkedin/linkedin-icon-2.svg" align="center" height="30"/></a>
-  <a href = 'https://twitter.com/WillaumezLogan'> <img  src="./images/Social/Twitter/twitter-6.svg" align="center" height="30"/></a>
-  <div>
-    <a href = 'https://github.com/LoganWillaumez'> <img src="./images/Social/Github/githubDark.svg#gh-dark-mode-only" align="center" height="30" /></a>
-      <a href = 'https://github.com/LoganWillaumez'> <img src="./images/Social/Github/githubLight.svg#gh-light-mode-only" align="center"height="30" /></a>
-  </div>
-  <a href="mailto:logan.willaumez@gmail.com?"><img src="./images/Social/Gmail/gmail-icon.svg" height="30"/></a>
-  </div>
+
+<a  href='https://www.linkedin.com/in/logan-willaumez-979b1114b/'> 
+<img src="./images/Social/Linkedin/linkedin-icon-2.svg" align="center" height="30"/> </a> <a href = 'https://twitter.com/WillaumezLogan'> <img src="./images/Social/Twitter/twitter-6.svg" align="center" height="30"/> </a> 
+<a href="mailto:logan.willaumez@gmail.com?"> <img src="./images/Social/Gmail/gmail-icon.svg" height="30" align="center"/> </a>
 </div>
+
