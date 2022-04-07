@@ -17,14 +17,14 @@
 <h2> Main Staks 🛠 </h2>
 
 <!-- <img src="./images/technos/html/htmlDark.svg#gh-dark-mode-only" width="35" /> -->
-<img src="./images/technos/MainDark.svg#gh-dark-mode-only" width="80%" />
-<img src="./images/technos/MainLight.svg#gh-light-mode-only" width="80%" />
+<img src="./images/technos/MainDark.svg#gh-dark-mode-only" width="50%" />
+<img src="./images/technos/MainLight.svg#gh-light-mode-only" width="50%" />
 
 <br>
 
 <h2> Secondary Staks 🛠 </h2>
 
-<img src="./images/technos/SecondaryDark.svg#gh-dark-mode-only" width="60%" />
+<img src="./images/technos/SecondaryDark.svg#gh-dark-mode-only" width="50%" />
 <img src="./images/technos/SecondaryLight.svg#gh-light-mode-only" width="50%" />
 
 ---
