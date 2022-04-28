@@ -10,7 +10,7 @@
 
 🔭 I’m currently working on [a Netflix clone](https://github.com/LoganWillaumez/Netflix-clone)
 
-🌱 I’m currently learning **Typescript and React**
+🌱 I’m currently learning **ThreeJS / Three Fiber**
 
 ---
 
