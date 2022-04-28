@@ -8,7 +8,7 @@
 
 😁 I like discover, work on new projects, and discover new people, so don't hesitate to contact me!
 
-🔭 I’m currently working on [a Netflix clone](https://github.com/LoganWillaumez/Netflix-clone)
+🔭 I’m currently working on 3D Portfolio
 
 🌱 I’m currently learning **ThreeJS / Three Fiber**
 
