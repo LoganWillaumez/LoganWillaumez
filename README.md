@@ -10,7 +10,7 @@
 
 🔭 I’m currently working on a **Three fiber/ThreeJS portfolio**
 
-🌱 I’m currently learning **ThreeJS / Three Fiber**
+🌱 I’m currently learning **ThreeJS / Three Fiber and Next.JS**
 
 ---
 
