@@ -8,7 +8,7 @@
 
 😁 I like discover, work on new projects, and discover new people, so don't hesitate to contact me!
 
-🔭 I’m currently working on a **Three fiber/ThreeJS portfolio**
+🔭 I’m currently working on a **Refactor of my old projects**
 
 🌱 I’m currently learning **ThreeJS / Three Fiber and Next.JS**
 
