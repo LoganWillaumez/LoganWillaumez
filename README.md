@@ -1,5 +1,5 @@
 <div>
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, I'm Logan Willaumez! <img src="./images/gifs/waving-hand-joypixels.gif" width="30px"></h2>
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, I'm Logan Willaumez! 
 </div>
 
 👨‍💻 I'm a junior Front-End developper.
