@@ -2,7 +2,7 @@
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, I'm Logan Willaumez! 
 </div>
 
-👨‍💻 I'm a junior Front-End developper.
+👨‍💻 I'm a Fullstack web developper.
 
 👨‍🎨 I was a [3D artist](https://www.artstation.com/willog) who traveled into the world of web development.
 
