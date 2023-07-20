@@ -1,43 +1,34 @@
-<div>
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, I'm Logan Willaumez! 
-</div>
+<h2> 🚀 Hello, I'm Logan Willaumez! </h2>
 
-👨‍💻 I'm a Web & Mobile developper.
+👨‍💻 I'm a seasoned Web & Mobile Developer, dedicated to transforming abstract ideas into tangible, impactful solutions. Once a 3D artist sculpting virtual realities, I've since harnessed those skills to carve a fulfilling path in the world of web development. 
 
-👨‍🎨 I was a [3D artist](https://www.artstation.com/willog) who traveled into the world of web development.
+👨‍🎨 The essence of both realms remains the same - turning visions into reality. This transformative journey from crafting 3D models to coding websites has not only honed my creative acumen but has also empowered me to become a full-fledged web developer.
 
-😁 I like discover, work on new projects, and discover new people, so don't hesitate to contact me!
+😁 Driven by curiosity and an adventurous spirit, I love the thrill of initiating new projects, deciphering the secrets of emerging technologies, and networking with like-minded enthusiasts in the digital world. If you share a similar passion for creativity and innovation, let's collaborate and embark on an exciting coding adventure!
 
-[comment]: <> (🔭 I’m currently working on a **Refactor of my old projects**)
+<h2> 🛠 Tools of the Trade </h2>
+Over the years, I've armed myself with a host of powerful technologies that assist me in my creative process:
 
-🌱 I’m currently learning **React Native**
+- Angular
+- Sveltekit
+- Node.js
+- Express
+- Capacitor
+- Cordova
 
----
+I'm currently concentrating on the intriguing terrains of blockchain technology - truly exciting times ahead!
 
-<h2> Main Staks 🛠 </h2>
+🌱 I'm sharpening my skills in Solidity and venturing deeper into the sphere of blockchain, eager to harness its transformative potential.
 
-<!-- <img src="./images/technos/html/htmlDark.svg#gh-dark-mode-only" width="35" /> -->
-<img src="./images/technos/MainDark.svg#gh-dark-mode-only" width="50%" />
-<img src="./images/technos/MainLight.svg#gh-light-mode-only" width="50%" />
-
+<h2> 💼 Main Stacks </h2>
+Here is a snapshot of the main stack I am most proficient in:
+<img src="./images/technos/stack.svg" width="80%" />
 <br>
-
-<h2> Secondary Staks 🛠 </h2>
-
-<img src="./images/technos/SecondaryDark.svg#gh-dark-mode-only" width="50%" />
-<img src="./images/technos/SecondaryLight.svg#gh-light-mode-only" width="50%" />
-
----
-
-<!---
-LoganWillaumez/LoganWillaumez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-  <h2> Connect with me :  </h2>
+<h2> 🌐 Let's Connect </h2>
+Feel free to connect with me via:
+<br>
 
 <a  href='https://www.linkedin.com/in/logan-willaumez-979b1114b/'> 
 <img src="./images/Social/Linkedin/linkedin-icon-2.svg" align="center" height="30"/> </a> <a href = 'https://twitter.com/WillaumezLogan'> <img src="./images/Social/Twitter/twitter-6.svg" align="center" height="30"/> </a> 
 <a href="mailto:logan.willaumez@gmail.com?"> <img src="./images/Social/Gmail/gmail-icon.svg" height="30" align="center"/> </a>
 </div>
-
