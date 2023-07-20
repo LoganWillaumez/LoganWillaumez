@@ -25,7 +25,7 @@ Here is a snapshot of the main stack I am most proficient in:
 <img src="./images/technos/stack.svg" width="80%" />
 <br>
 <h2> 🌐 Let's Connect </h2>
-Feel free to connect with me via:
+Feel free to connect with me via :
 <br>
 
 <a  href='https://www.linkedin.com/in/logan-willaumez-979b1114b/'> 
