@@ -16,9 +16,7 @@ Over the years, I've armed myself with a host of powerful technologies that assi
 - Capacitor
 - Cordova
 
-I'm currently concentrating on the intriguing terrains of blockchain technology - truly exciting times ahead!
-
-🌱 I'm sharpening my skills in Solidity and venturing deeper into the sphere of blockchain, eager to harness its transformative potential.
+🌱 I'm honing my abilities in Solidity and diving deeper into the realm of blockchain, all the while learning about machine learning's intricate mechanisms. I am enthusiastic to harness the transformative potential of these two technological juggernauts.
 
 <h2> 💼 Main Stacks </h2>
 Here is a snapshot of the main stack I am most proficient in:
