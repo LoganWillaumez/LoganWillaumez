@@ -11,10 +11,8 @@ Over the years, I've armed myself with a host of powerful technologies that assi
 
 - Angular
 - Sveltekit
-- Node.js
-- Express
+- Express (Node JS)
 - Capacitor
-- Cordova
 
 <h2> 💼 Main Stacks </h2>
 Here is a snapshot of the main stack I am most proficient in:
@@ -25,6 +23,6 @@ Feel free to connect with me via :
 <br>
 
 <a  href='https://www.linkedin.com/in/logan-willaumez-979b1114b/'> 
-<img src="./images/Social/Linkedin/linkedin-icon-2.svg" align="center" height="30"/> </a> <a href = 'https://twitter.com/WillaumezLogan'> <img src="./images/Social/Twitter/twitter-6.svg" align="center" height="30"/> </a> 
+<img src="./images/Social/Linkedin/linkedin-icon-2.svg" align="center" height="30"/> </a>
 <a href="mailto:logan.willaumez@gmail.com?"> <img src="./images/Social/Gmail/gmail-icon.svg" height="30" align="center"/> </a>
 </div>
