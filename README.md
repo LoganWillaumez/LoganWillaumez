@@ -10,6 +10,7 @@
 Over the years, I've armed myself with a host of powerful technologies that assist me in my creative process:
 
 - Angular
+- Astrojs
 - Sveltekit
 - Express (Node JS)
 - Capacitor
